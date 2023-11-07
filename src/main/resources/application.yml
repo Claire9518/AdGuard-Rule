@@ -159,6 +159,10 @@ application:
       - 'https://easylist-downloads.adblockplus.org/easylist.txt'
       - 'https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_2_Base/filter.txt'
       - 'https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_224_Chinese/filter.txt'
+      - 'https://github.com/AdAway/adaway.github.io/raw/master/hosts.txt'
+      - 'https://raw.githubusercontent.com/DivineEngine/AdGuardFilter/master/filter.txt'
+      - 'https://raw.githubusercontent.com/cjx82630/cjxlist/master/cjx-ublock.txt'
+
 
 
     #本地规则
